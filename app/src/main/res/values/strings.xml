@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Moviecity</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="please_provide_your_email_to_continue">To reset password, enter your email, press the button and check mail to follow instruction…</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="upcoming_movie">Upcoming Movie</string>
+    <string name="top_rated_movie">Top Rated Movie</string>
+    <string name="view_all">View All</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="search_movies">search movies</string>
+    <string name="search">Go</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="storyline">Plot Summary</string>
+    <string name="cast">Cast</string>
+    <string name="thriller">Thriller</string>
+    <string name="english">English</string>
+    <string name="skip"><![CDATA[Skip >]]></string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="fav">Favourite</string>
+    <string name="sign_out">Sign out</string>
+    <string name="about_app">About app</string>
+    <string name="favourite_movies">Favourite Movies</string>
+    <string name="no_favourite_movies_added">No Favourite Movies Added..</string>
+
+</resources>

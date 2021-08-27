@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532741758635",
+    "project_id": "moviecity-612f4",
+    "storage_bucket": "moviecity-612f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532741758635:android:14cc1d72fceb61067221ee",
+        "android_client_info": {
+          "package_name": "com.example.moviecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532741758635-inb0g0t7m7ttspke0bjdq1nn6lellafq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviecity",
+            "certificate_hash": "b18f2d6073b54006a17f0a74368a76970bd94a4e"
+          }
+        },
+        {
+          "client_id": "532741758635-59il9cnfbge1k2oee0cmcenvjgvtn2lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5GR2hHXhlvg5QlsJX48GciopBHG6OBnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532741758635-59il9cnfbge1k2oee0cmcenvjgvtn2lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
