@@ -1,5 +1,21 @@
-# Moviecity 🎬
-An app where you can search and find every movie and its details like release date, ratings, cast, genres, summary, length of movie etc.
+
+<h1 align="center">Moviecity 🎬</h1>
+
+<p align="center">
+    An app where you can search and find every movie and its details like release date, ratings, cast, genres, summary, length of movie etc.
+     Here you can also save you favourite movies. 
+</p>
+
+
+
+# Screenshots 📸
+<img src="https://github.com/Vishnu-Murti-Pandey/Moviecity/blob/master/screenshots/Gif_1.gif" width="400"/> <img src="https://github.com/Vishnu-Murti-Pandey/Moviecity/blob/master/screenshots/Gif_2.gif" width="400"/>
+
+<img src="https://github.com/Vishnu-Murti-Pandey/Moviecity/blob/master/screenshots/Gif_3.gif" width="400"/> <img src="https://github.com/Vishnu-Murti-Pandey/Moviecity/blob/master/screenshots/Gif_4.gif" width="400"/>
+
+<img src="https://github.com/Vishnu-Murti-Pandey/Moviecity/blob/master/screenshots/SS-%20SignUp.png" width="250" height="500" hspace="100"/> <img src="https://github.com/Vishnu-Murti-Pandey/Moviecity/blob/master/screenshots/SS-%20SignIn.png" width="250" height="500" />
+
+
 
 # Overview ✔
 
@@ -18,7 +34,7 @@ An app where you can search and find every movie and its details like release da
 ### Firebase for Authentication 🔐
 >This app uses firebase for email authentication. You can create your account using email & password. It's totally safe and secure.
 
-### Deatils Of Movie 〽
+### Details Of Movie 〽
 >In this section you will find every details of the movie, which includes:-
 
 1. Poster movie the movie
@@ -55,13 +71,3 @@ An app where you can search and find every movie and its details like release da
 # APK Download ⬇
 
 [Download here](https://github.com/Vishnu-Murti-Pandey/Moviecity/blob/master/APK/app-debug.apk)
-
-
-
-
-
-
-
-
-
-
