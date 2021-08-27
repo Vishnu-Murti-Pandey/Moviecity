@@ -2,8 +2,8 @@
 <h1 align="center">Moviecity 🎬</h1>
 
 <p align="center">
-    An app where you can search and find every movie and its details like release date, ratings, cast, genres, summary, length of movie etc.
-     Here you can also save you favourite movies. 
+    An app where you can search and find every movie and its details like release date, ratings, cast, genres, summary, length ofthe movie, etc.
+     Here you can also save your favourite movies. 
 </p>
 
 
